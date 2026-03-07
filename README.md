@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
+| [0704-binary-search](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
