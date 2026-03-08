@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/kanishka675/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0078-subsets) |
