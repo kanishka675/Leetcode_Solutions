@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0169-majority-element) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
