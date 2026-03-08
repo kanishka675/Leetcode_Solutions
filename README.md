@@ -72,12 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/kanishka675/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
