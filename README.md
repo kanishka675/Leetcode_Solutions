@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/kanishka675/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/kanishka675/Leetcode_Solutions/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [3847-find-the-score-difference-in-a-game](https://github.com/kanishka675/Leetcode_Solutions/tree/master/3847-find-the-score-difference-in-a-game) |
 <!---LeetCode Topics End-->
