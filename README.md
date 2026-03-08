@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0078-subsets) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
