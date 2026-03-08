@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1796-second-largest-digit-in-a-string](https://github.com/kanishka675/Leetcode_Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/kanishka675/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0443-string-compression) |
+| [1796-second-largest-digit-in-a-string](https://github.com/kanishka675/Leetcode_Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 ## Trie
 |  |
 | ------- |
