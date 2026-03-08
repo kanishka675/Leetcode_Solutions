@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/kanishka675/Leetcode_Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/kanishka675/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/kanishka675/Leetcode_Solutions/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -174,10 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -190,4 +195,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/kanishka675/Leetcode_Solutions/tree/master/2596-check-knight-tour-configuration) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
