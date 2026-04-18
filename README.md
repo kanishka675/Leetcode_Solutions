@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0231-power-of-two) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
