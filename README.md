@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -242,11 +243,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
