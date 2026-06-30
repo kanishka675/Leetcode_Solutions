@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [3848-check-digitorial-permutation](https://github.com/kanishka675/Leetcode_Solutions/tree/master/3848-check-digitorial-permutation) |
 | [3926-count-valid-word-occurrences](https://github.com/kanishka675/Leetcode_Solutions/tree/master/3926-count-valid-word-occurrences) |
 ## Two Pointers
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/kanishka675/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3765-complete-prime-number](https://github.com/kanishka675/Leetcode_Solutions/tree/master/3765-complete-prime-number) |
+| [3848-check-digitorial-permutation](https://github.com/kanishka675/Leetcode_Solutions/tree/master/3848-check-digitorial-permutation) |
 ## Recursion
 |  |
 | ------- |
