@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/kanishka675/Leetcode_Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/kanishka675/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/kanishka675/Leetcode_Solutions/tree/master/3847-find-the-score-difference-in-a-game) |
+| [3926-count-valid-word-occurrences](https://github.com/kanishka675/Leetcode_Solutions/tree/master/3926-count-valid-word-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1796-second-largest-digit-in-a-string](https://github.com/kanishka675/Leetcode_Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/kanishka675/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3926-count-valid-word-occurrences](https://github.com/kanishka675/Leetcode_Solutions/tree/master/3926-count-valid-word-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [3926-count-valid-word-occurrences](https://github.com/kanishka675/Leetcode_Solutions/tree/master/3926-count-valid-word-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0443-string-compression) |
 | [1796-second-largest-digit-in-a-string](https://github.com/kanishka675/Leetcode_Solutions/tree/master/1796-second-largest-digit-in-a-string) |
+| [3926-count-valid-word-occurrences](https://github.com/kanishka675/Leetcode_Solutions/tree/master/3926-count-valid-word-occurrences) |
 ## Trie
 |  |
 | ------- |
