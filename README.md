@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/kanishka675/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/kanishka675/Leetcode_Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/kanishka675/Leetcode_Solutions/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -365,5 +367,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [3765-complete-prime-number](https://github.com/kanishka675/Leetcode_Solutions/tree/master/3765-complete-prime-number) |
 <!---LeetCode Topics End-->
