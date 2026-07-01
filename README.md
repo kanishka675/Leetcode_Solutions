@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/kanishka675/Leetcode_Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/kanishka675/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 ## Heap (Priority Queue)
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
