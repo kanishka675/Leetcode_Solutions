@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0881-boats-to-save-people](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/kanishka675/Leetcode_Solutions/tree/master/2596-check-knight-tour-configuration) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0881-boats-to-save-people](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
@@ -127,11 +129,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0134-gas-station) |
+| [0881-boats-to-save-people](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 ## Math
 |  |
 | ------- |
