@@ -4,8 +4,10 @@ public:
         string ans;
         int i=0, j=0;
         while(i < word1.size() && j< word2.size()){
-            ans = ans + word1[i++];
-            ans = ans + word2[j++];
+            ans = ans + word1[i];
+            i++;
+            ans = ans + word2[j];
+            j++;
         }
         while(i<word1.size()){ //for adding remaining letters
             ans = ans + word1[i++];
