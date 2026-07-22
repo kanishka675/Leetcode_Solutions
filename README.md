@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
+| [1768-merge-strings-alternately](https://github.com/kanishka675/Leetcode_Solutions/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0443-string-compression) |
+| [1768-merge-strings-alternately](https://github.com/kanishka675/Leetcode_Solutions/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/kanishka675/Leetcode_Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [3926-count-valid-word-occurrences](https://github.com/kanishka675/Leetcode_Solutions/tree/master/3926-count-valid-word-occurrences) |
 | [3941-password-strength](https://github.com/kanishka675/Leetcode_Solutions/tree/master/3941-password-strength) |
