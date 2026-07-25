@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3848-check-digitorial-permutation](https://github.com/kanishka675/Leetcode_Solutions/tree/master/3848-check-digitorial-permutation) |
