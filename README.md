@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/kanishka675/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3765-complete-prime-number](https://github.com/kanishka675/Leetcode_Solutions/tree/master/3765-complete-prime-number) |
 | [3848-check-digitorial-permutation](https://github.com/kanishka675/Leetcode_Solutions/tree/master/3848-check-digitorial-permutation) |
@@ -411,4 +414,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
