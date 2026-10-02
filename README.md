@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/kanishka675/Leetcode_Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/kanishka675/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/kanishka675/Leetcode_Solutions/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
