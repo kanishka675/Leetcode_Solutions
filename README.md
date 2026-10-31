@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/kanishka675/Leetcode_Solutions/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/kanishka675/Leetcode_Solutions/tree/master/1796-second-largest-digit-in-a-string) |
+| [2390-removing-stars-from-a-string](https://github.com/kanishka675/Leetcode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3926-count-valid-word-occurrences](https://github.com/kanishka675/Leetcode_Solutions/tree/master/3926-count-valid-word-occurrences) |
 | [3941-password-strength](https://github.com/kanishka675/Leetcode_Solutions/tree/master/3941-password-strength) |
 ## Trie
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/kanishka675/Leetcode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2596-check-knight-tour-configuration](https://github.com/kanishka675/Leetcode_Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/kanishka675/Leetcode_Solutions/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Backtracking
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/kanishka675/Leetcode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
