@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kanishka675/Leetcode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1929-concatenation-of-array](https://github.com/kanishka675/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/kanishka675/Leetcode_Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/kanishka675/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0877-stone-game) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kanishka675/Leetcode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/kanishka675/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kanishka675/Leetcode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Monotonic Queue
 |  |
 | ------- |
